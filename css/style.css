@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body 
+ {  font-family: 'Righteous', cursive;
+    background: url("../img/espacio.jpg");
+    background-size: cover;
+    
+}
+h2{ 
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    font-size: 50;
+    color: black;
+
+}
+button{
+    font-family: 'Righteous', cursive;
+    padding: 15px 40px;
+    font-size: 22px;
+    background: transparent;
+    border: 3px solid #ffff;
+    color: aqua;
+    cursor: pointer;
+    transition: 1s;
+    margin: 20px ;
+}
+button:hover{
+    font-family: 'Righteous', cursive;
+    border: 2px solid rgb(255, 255, 255);
+ border-radius: 10px ;
+ background: rgb(110, 221, 18);
+}
+
